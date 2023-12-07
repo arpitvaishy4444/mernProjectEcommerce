@@ -1,0 +1,26 @@
+.contactPage{
+    height: 40vmax;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.2rem;
+    font-weight:lighter;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.emailBox{
+    transition: all ;
+    padding: 40px;
+    cursor:pointer;
+    text-decoration: none;
+    color: black;
+}
+.emailBox:hover{
+    background-color: rgb(241, 234, 234);
+}
+@media screen and (max-width:600px) {
+    .contactPage{
+        font-size: 0.5rem;
+        
+    }
+    
+}

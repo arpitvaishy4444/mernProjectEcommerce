@@ -1,0 +1,1 @@
+This is Ecommerce project made by Arpit Vaishy for basic development

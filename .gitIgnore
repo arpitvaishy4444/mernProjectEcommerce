@@ -1,0 +1,24 @@
+
+# dependencies
+/node_modules
+/fontend/node_modules
+/fontend/.pnp
+/fontend/.pnp.js
+
+# testing
+/fontend/coverage
+
+# production
+/fontend/build
+
+# misc
+/backend/config/config.env
+/fontend/.DS_Store
+/fontend/.env.local
+/fontend/.env.development.local
+/fontend/.env.test.local
+/fontend/.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
